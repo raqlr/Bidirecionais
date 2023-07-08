@@ -1,4 +1,4 @@
-# Bidirecionais
+# Cadastro Escolar
 Java: Relação de 1 para N. 
 
     --> 1 sócio pode ter N dependentes. 
